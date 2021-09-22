@@ -9,7 +9,7 @@
     $timeReserve = $settings->settings->timeReserve;
     $url = $address."ws/ws1.1cws?wsdl";
     $options = array(
-        'login'=>'bw-user',
+        'login'=>'Admin',
         'password'=>'0000',
         "soap_version" => SOAP_1_1,
         "stream_context" => stream_context_create(

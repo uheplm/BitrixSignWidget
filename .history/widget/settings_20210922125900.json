@@ -1,7 +1,7 @@
 {
     "settings": {
         "addresFile": "./widget/send.php",
-        "address": "http://localhost:8080/UMC/ru/",
+        "address": "http://localhost:8080/UMC/",
         "timeReserve": 30
     },
     "style": {
